@@ -2,3 +2,5 @@ sqlalchemy
 alembic
 sqlite-utils
 sqlalchemy-utils
+fastapi
+PYYAML

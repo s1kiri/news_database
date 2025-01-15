@@ -1,0 +1,11 @@
+db:
+  database:
+  type: sqlite
+  name: my_database.db
+  host: localhost
+  port: 5432
+
+api:
+  host: 0.0.0.0
+  port: 5000
+  debug: true
