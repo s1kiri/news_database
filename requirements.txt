@@ -4,3 +4,4 @@ sqlite-utils
 sqlalchemy-utils
 fastapi
 PYYAML
+uvicorn
