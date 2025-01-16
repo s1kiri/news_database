@@ -4,7 +4,7 @@ to start:
 1) install requirements
 2) cd app
 3) sh uvic.sh
-This script will deploy db and api to the provided in the config files ports at localhost.
+This script will deploy db and api to the ports provided in the config files.
 
 There are only four functions:
 add_channel --- adds channel
